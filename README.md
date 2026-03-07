@@ -17,7 +17,7 @@ A local AI assistant that runs entirely on your Mac. No cloud, no subscriptions,
 ## Installation
 
 1. Install Ollama from [ollama.com/download](https://ollama.com/download)
-2. Download `KamsBot.zip` from the [latest release](https://github.com/kichhu-rishu/EdgeChat/releases/tag/v1.0)
+2. Download `KamsBot.zip` from the [latest release](https://github.com/kichhu-rishu/kams-bot/releases/tag/v1.0)
 3. Unzip and move `Kams Bot.app` to your Applications folder
 4. Right-click `Kams Bot.app` → **Open** (required the first time since the app is not yet signed)
 5. On first launch, the app will automatically download the AI model (~1 GB) — this only happens once
