@@ -21,9 +21,7 @@ A local AI assistant that runs entirely on your Mac. No cloud, no subscriptions,
 4. On first launch, the app will automatically download the AI model (~1 GB) -- this only happens once
 5. Once the download is complete, you can use it fully offline
 
-**If you see "unidentified developer":** Right-click the app -> Open -> Open. This is a one-time step.
-
-**Or run this in Terminal:**
+**If you see "unidentified developer": Run this in Terminal:
 ```
 xattr -cr /Applications/KamsBot.app
 ```
